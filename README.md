@@ -27,6 +27,8 @@ It is designed to evaluate mathematical expressions through a custom-built inter
 - Built-in mathematical functions
 
 ## Planned Project Structure
+
+```text
 Arithmos/
 ├── src/
 │   └── arithmos/
@@ -34,6 +36,7 @@ Arithmos/
 ├── tests/
 ├── README.md
 └── LICENSE
+```
 
 ## Technologies
 Python 3.10+
@@ -44,4 +47,5 @@ GitHub
 Arithmos is being developed incrementally, with an emphasis on actually understanding the underlying concepts rather than relying on prebuilt parsing or evaluating shortcuts.
 
 ## License
-To be determined.
+
+Arithmos is licensed under the [MIT License](LICENSE).
