@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/arithmos/__init__.py
+src/arithmos/main.py
+src/arithmos/repl.py
+src/arithmos/tokens.py
+src/arithmos.egg-info/PKG-INFO
+src/arithmos.egg-info/SOURCES.txt
+src/arithmos.egg-info/dependency_links.txt
+src/arithmos.egg-info/top_level.txt
+tests/test_tokens.py
