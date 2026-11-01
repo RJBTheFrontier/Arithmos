@@ -1,5 +1,6 @@
 # Arithmos
 **A modular arithmetic interpreter built from scratch in Python.**
+
 Python - Educational Project - Pre-alpha
 
 ## Overview
@@ -39,9 +40,9 @@ Arithmos/
 ```
 
 ## Technologies
-Python 3.10+
-Git
-GitHub
+- Python 3.10+ and built-in modules
+- Git
+- GitHub
 
 ## Development Philosophy
 Arithmos is being developed incrementally, with an emphasis on actually understanding the underlying concepts rather than relying on prebuilt parsing or evaluating shortcuts.
