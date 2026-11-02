@@ -41,7 +41,7 @@ def calculate(expression: str):
 
         return result
 
-    except (SyntaxError, KeyError, TypeError, ValueError) as e:
+    except (SyntaxError, KeyError, TypeError, ValueError):
         # Gracefully handle malicious syntax, missing operators, or bad types
         return "Error: Invalid expression or unsupported operation."
     except ZeroDivisionError:
